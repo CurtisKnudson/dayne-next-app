@@ -39,6 +39,26 @@ export default function Home() {
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
         </div>
+        <p>
+          al;kajsdl;kfj asdklfjalk;sdfl;kasjd f al;kajsdl;kfj
+          asdklfjalk;sdfl;kasjd f al;kajsdl;kfj asdklfjalk;sdfl;kasjd f
+          al;kajsdl;kfj asdklfjalk;sdfl;kasjd f al;kajsdl;kfj
+          asdklfjalk;sdfl;kasjd f al;kajsdl;kfj asdklfjalk;sdfl;kasjd
+          fal;kajsdl;kfj asdklfjalk;sdfl;kasjd f al;kajsdl;kfj
+          asdklfjalk;sdfl;kasjd f al;kajsdl;kfj asdklfjalk;sdfl;kasjd f
+          al;kajsdl;kfj asdklfjalk;sdfl;kasjd f al;kajsdl;kfj
+          asdklfjalk;sdfl;kasjd f
+        </p>
+        <p>
+          al;kajsdl;kfj asdklfjalk;sdfl;kasjd f al;kajsdl;kfj
+          asdklfjalk;sdfl;kasjd f al;kajsdl;kfj asdklfjalk;sdfl;kasjd f
+          al;kajsdl;kfj asdklfjalk;sdfl;kasjd f al;kajsdl;kfj
+          asdklfjalk;sdfl;kasjd f al;kajsdl;kfj asdklfjalk;sdfl;kasjd
+          fal;kajsdl;kfj asdklfjalk;sdfl;kasjd f al;kajsdl;kfj
+          asdklfjalk;sdfl;kasjd f al;kajsdl;kfj asdklfjalk;sdfl;kasjd f
+          al;kajsdl;kfj asdklfjalk;sdfl;kasjd f al;kajsdl;kfj
+          asdklfjalk;sdfl;kasjd f
+        </p>
       </main>
 
       <footer className={styles.footer}>
